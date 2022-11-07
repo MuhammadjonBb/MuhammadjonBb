@@ -4,9 +4,9 @@
 
 <ul>
   <li>🌱 I’m Front-end developer </li>
-  <li> 💬 Ask me about HTML CSS Preprocessor JavaScript Vue </li>
-  <li> 📫 How to reach me muhammadzonboborakhimov@gmail.com </li>
-  <li> ⚡ My Portfolio!: `soon` </li>
+  <li> 💬 Ask me about HTML CSS Preprocessors JavaScript Vue </li>
+  <li> 📫 How to reach me: <a href="mailto:muhammadzonboborakhimov@gmail.com"> muhammadzonboborakhimov@gmail.com </a></li>
+  <li> ⚡ My Portfolio!: <code>soon</code> </li>
   <li> 🌍 I speak Uzbek (native), Russian fluently, English (B2)</li>
 </ul>
 
@@ -18,7 +18,7 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-031530?style=for-the-badge&logo=telegram)](https://t.me/compukhter)
 
-#### soon:
+#### <code>soon:</code>
 
 [![Instagram](https://img.shields.io/badge/-Instagram-031530?style=for-the-badge&logo=instagram)]() [![FaceBook](https://img.shields.io/badge/-FaceBook-031530?style=for-the-badge&logo=facebook)]() [![Linkedin](https://img.shields.io/badge/-Linkedin-031530?style=for-the-badge&logo=linkedin&logoColor=0072b1)]() [![VK](https://img.shields.io/badge/-VK-031530?style=for-the-badge&logo=vk&logoColor=4C75A3)]()
 
