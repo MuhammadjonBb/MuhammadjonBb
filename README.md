@@ -3,7 +3,7 @@
 <h1 style="text-align: center;"> Hi! My name is Mukhammad.<h1>
 
 <ul>
-  <li>🌱 I’m a beginner Front-end developer </li>
+  <li> 🌱 I’m a beginner Front-end developer </li>
   <li> 💬 Ask me about HTML CSS Preprocessors JavaScript Vue </li>
   <li> 📫 How to reach me: <a href="mailto:muhammadzonboborakhimov@gmail.com"> muhammadzonboborakhimov@gmail.com </a></li>
   <li> ⚡ My Portfolio!: <code>soon</code> </li>
