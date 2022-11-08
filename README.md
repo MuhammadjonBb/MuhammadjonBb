@@ -5,7 +5,7 @@
 <ul>
   <li> 🌱 I’m a beginner Front-end developer </li>
   <li> 💬 Ask me about HTML CSS Preprocessors JavaScript Vue </li>
-  <li> 📫 How to reach me: <a href="mailto:muhammadzonboborahimov7@gmail.com"> muhammadzonboborakhimov@gmail.com </a></li>
+  <li> 📫 How to reach me: <a href="mailto:muhammadzonboborahimov7@gmail.com"> muhammadzonboborahimov7@gmail.com </a></li>
   <li> ⚡ My Portfolio!: <code>soon</code> </li>
   <li> 🌍 I speak Uzbek (native), Russian (fluently), English (B2)</li>
 </ul>
