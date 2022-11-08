@@ -4,7 +4,7 @@
 
 <ul>
   <li> 🌱 I’m a beginner Front-end developer </li>
-  <li> 🔭 I’m currently working on online-store </li>
+  <li> 🔭 I’m currently working on online store </li>
   <li> 💬 Ask me about HTML CSS Preprocessors JavaScript Vue </li>
   <li> 📫 How to reach me: <a href="mailto:muhammadzonboborahimov7@gmail.com"> muhammadzonboborahimov7@gmail.com </a></li>
   <li> ⚡ My Portfolio!: <code>soon</code> </li>
@@ -36,4 +36,4 @@
 </picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MukhammadzonBb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=MukhammadzonBb)
+<!--![](https://komarev.com/ghpvc/?username=MukhammadzonBb)-->
