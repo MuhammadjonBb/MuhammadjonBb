@@ -1,13 +1,13 @@
 ![Header](https://github.com/MukhammadzonBb/MukhammadzonBb/blob/main/assets/header.jpg)
 
-<h1 style="text-align: center;"> Hi! My name is Mukhammad. I'm a beginner Frontend developer!<h1>
+<h1 style="text-align: center;"> Hi! My name is Mukhammad.<h1>
 
 <ul>
-  <li>🌱 I’m Front-end developer </li>
+  <li>🌱 I’m a beginner Front-end developer </li>
   <li> 💬 Ask me about HTML CSS Preprocessors JavaScript Vue </li>
   <li> 📫 How to reach me: <a href="mailto:muhammadzonboborakhimov@gmail.com"> muhammadzonboborakhimov@gmail.com </a></li>
   <li> ⚡ My Portfolio!: <code>soon</code> </li>
-  <li> 🌍 I speak Uzbek (native), Russian fluently, English (B2)</li>
+  <li> 🌍 I speak Uzbek (native), Russian (fluently), English (B2)</li>
 </ul>
 
 ## Language and Tools
