@@ -17,11 +17,11 @@
 
 ### Follow me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-031530?style=for-the-badge&logo=telegram)](https://t.me/compukhter)
+[![Telegram](https://img.shields.io/badge/-Telegram-031530?style=for-the-badge&logo=telegram)](https://t.me/compukhter) [![Instagram](https://img.shields.io/badge/-Instagram-031530?style=for-the-badge&logo=instagram)](https://www.instagram.com/elog1o_bb/)
 
 #### <code>soon:</code>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-031530?style=for-the-badge&logo=instagram)]() [![FaceBook](https://img.shields.io/badge/-FaceBook-031530?style=for-the-badge&logo=facebook)]() [![Linkedin](https://img.shields.io/badge/-Linkedin-031530?style=for-the-badge&logo=linkedin&logoColor=0072b1)]() [![VK](https://img.shields.io/badge/-VK-031530?style=for-the-badge&logo=vk&logoColor=4C75A3)]()
+ [![FaceBook](https://img.shields.io/badge/-FaceBook-031530?style=for-the-badge&logo=facebook)]() [![Linkedin](https://img.shields.io/badge/-Linkedin-031530?style=for-the-badge&logo=linkedin&logoColor=0072b1)]()
 
 <picture>
 <source 
