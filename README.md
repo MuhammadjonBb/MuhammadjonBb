@@ -16,11 +16,7 @@
 
 ### Follow me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-031530?style=for-the-badge&logo=telegram)](https://t.me/compukhter) [![Instagram](https://img.shields.io/badge/-Instagram-031530?style=for-the-badge&logo=instagram)](https://www.instagram.com/elog1o_bb/) [![FaceBook](https://img.shields.io/badge/-FaceBook-031530?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100087666074920)
-
-#### <code>soon:</code>
-
- [![Linkedin](https://img.shields.io/badge/-Linkedin-031530?style=for-the-badge&logo=linkedin&logoColor=0072b1)]()
+[![Telegram](https://img.shields.io/badge/-Telegram-031530?style=for-the-badge&logo=telegram)](https://t.me/compukhter) [![Instagram](https://img.shields.io/badge/-Instagram-031530?style=for-the-badge&logo=instagram)](https://www.instagram.com/elog1o_bb/) [![FaceBook](https://img.shields.io/badge/-FaceBook-031530?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100087666074920) [![Linkedin](https://img.shields.io/badge/-Linkedin-031530?style=for-the-badge&logo=linkedin&logoColor=0072b1)](https://www.linkedin.com/in/mukhammad-boborakhimov-648b52256/)
 
 <picture>
 <source 
