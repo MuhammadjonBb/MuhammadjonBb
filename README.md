@@ -12,7 +12,7 @@
 
 ## Language and Tools
 
-![HTML](https://img.shields.io/badge/-HTML-031530?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-031530?style=for-the-badge&logo=css3&logoColor=2965f1) ![SASS](https://img.shields.io/badge/-SASS-031530?style=for-the-badge&logo=sass) ![Gulp](https://img.shields.io/badge/-Gulp-031530?style=for-the-badge&logo=gulp) ![Pug](https://img.shields.io/badge/-Pug-031530?style=for-the-badge&logo=pug) ![JavaScript](https://img.shields.io/badge/-JavaScript-031530?style=for-the-badge&logo=javascript) ![vue](https://img.shields.io/badge/-vue-031530?style=for-the-badge&logo=vue.js)  ![Figma](https://img.shields.io/badge/-Figma-031530?style=for-the-badge&logo=figma)
+![HTML](https://img.shields.io/badge/-HTML-031530?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-031530?style=for-the-badge&logo=css3&logoColor=2965f1) ![JavaScript](https://img.shields.io/badge/-JavaScript-031530?style=for-the-badge&logo=javascript) ![SASS](https://img.shields.io/badge/-SASS-031530?style=for-the-badge&logo=sass) ![Gulp](https://img.shields.io/badge/-Gulp-031530?style=for-the-badge&logo=gulp) ![Pug](https://img.shields.io/badge/-Pug-031530?style=for-the-badge&logo=pug) ![vue](https://img.shields.io/badge/-vue-031530?style=for-the-badge&logo=vue.js)
 
 ### Follow me
 
