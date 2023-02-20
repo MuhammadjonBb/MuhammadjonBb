@@ -7,7 +7,7 @@
   <li> 💬 Ask me about HTML CSS Preprocessors JavaScript Vue </li>
   <li> 📫 How to reach me: <a href="mailto:muhammadzonboborahimov7@gmail.com"> muhammadzonboborahimov7@gmail.com </a></li>
   <li> ⚡ My Portfolio!: <code>soon</code> </li>
-  <li> 🌍 I speak Uzbek (native), Russian (fluently), English (B1)</li>
+  <li> 🌍 I speak Uzbek (native), Russian (C1), English (B1)</li>
 </ul>
 
 ## Language and Tools
