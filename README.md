@@ -1,4 +1,4 @@
-![Header](https://github.com/MukhammadzonBb/MukhammadzonBb/blob/main/assets/header.jpg)
+<!-- ![Header](https://github.com/MukhammadzonBb/MukhammadzonBb/blob/main/assets/header.jpg) -->
 
 <h1 style="text-align: center;"> About me: <h1>
 
