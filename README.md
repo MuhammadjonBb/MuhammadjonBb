@@ -6,7 +6,7 @@
   <li> 🌱 I’m a beginner Front-end developer </li>
   <li> 💬 Ask me about HTML, CSS, Preprocessors, JavaScript and Vue </li>
   <li> 📫 How to reach me: <a href="mailto:muhammadzonboborahimov7@gmail.com"> muhammadzonboborahimov7@gmail.com </a></li>
-  <li> ⚡ My Portfolio!: <code>soon</code> </li>
+  <li> ⚡ My Best Projects: Look up pinned projects below! </li>
   <li> 🌍 I speak Uzbek (native), Russian (C1), English (B1)</li>
 </ul>
 
