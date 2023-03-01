@@ -1,6 +1,6 @@
 ![Header](https://github.com/MukhammadzonBb/MukhammadzonBb/blob/main/assets/header.jpg)
 
-<h1 style="text-align: center;"> Hi! My name is Mukhammad.<h1>
+<h1 style="text-align: center;"> About me: <h1>
 
 <ul>
   <li> 🌱 I’m a Front-end developer </li>
