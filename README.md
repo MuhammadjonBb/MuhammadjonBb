@@ -17,18 +17,18 @@
 ### Follow me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-031530?style=for-the-badge&logo=telegram)](https://t.me/compukhter) [![Instagram](https://img.shields.io/badge/-Instagram-031530?style=for-the-badge&logo=instagram)](https://www.instagram.com/elog1o_bb/) [![FaceBook](https://img.shields.io/badge/-FaceBook-031530?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100087666074920) [![Linkedin](https://img.shields.io/badge/-Linkedin-031530?style=for-the-badge&logo=linkedin&logoColor=0072b1)](https://www.linkedin.com/in/mukhammad-boborakhimov-648b52256/)
-<!-- 
+
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=MukhammadzonBb&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=MuhammadjonBb&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=MukhammadzonBb&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=MuhammadjonBb&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=MukhammadzonBb&show_icons=true" />
-</picture> -->
+<img src="https://github-readme-stats.vercel.app/api?username=MuhammadjonBb&show_icons=true" />
+</picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MukhammadzonBb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--![](https://komarev.com/ghpvc/?username=MukhammadzonBb)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadjonBb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=MuhammadjonBb)
