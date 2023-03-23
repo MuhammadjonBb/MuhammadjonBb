@@ -1,4 +1,4 @@
-<!-- ![Header](https://github.com/MukhammadzonBb/MukhammadzonBb/blob/main/assets/header.jpg) -->
+![Mukhammad Boborakhimov](https://user-images.githubusercontent.com/108528535/227181801-fa51021a-aa4b-4035-b981-af191c70ba8b.png)
 
 <h1 style="text-align: center;">✨ About me <h1>
 
