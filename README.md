@@ -1,4 +1,5 @@
-<header> ![Muhammadjon Boborakhimov](https://user-images.githubusercontent.com/108528535/227181801-fa51021a-aa4b-4035-b981-af191c70ba8b.png) </header>
+![Muhammadjon Boborakhimov](https://user-images.githubusercontent.com/108528535/227182290-6dc4321d-0ada-4739-a354-39de17867ea3.png)
+
 
 <h1 style="text-align: center;">✨ About me <h1>
 
