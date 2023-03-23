@@ -1,6 +1,3 @@
-![Muhammadjon Boborakhimov](https://user-images.githubusercontent.com/108528535/227182290-6dc4321d-0ada-4739-a354-39de17867ea3.png)
-
-
 <h1 style="text-align: center;">✨ About me <h1>
 
 <ul>
