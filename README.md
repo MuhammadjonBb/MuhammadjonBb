@@ -22,10 +22,9 @@
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=MuhammadjonBb&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  media="(prefers-color-scheme: monokai), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=MuhammadjonBb&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadjonBb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![](https://visitcount.itsvg.in/api?id=MuhammadjonBb&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in) -->
