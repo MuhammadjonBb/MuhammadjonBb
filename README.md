@@ -30,4 +30,4 @@
 </picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadjonBb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--![](https://komarev.com/ghpvc/?username=MuhammadjonBb)-->
+[![](https://visitcount.itsvg.in/api?id=MuhammadjonBb&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
