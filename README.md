@@ -2,9 +2,8 @@
 
 <ul>
   <li> 🌱 I’m a Front-end developer </li>
-  <li> 💬 Ask me about HTML, CSS, Preprocessors, JavaScript and Vue </li>
   <li> 📫 How to reach me: <a href="mailto:muhammadzonboborahimov7@gmail.com"> muhammadzonboborahimov7@gmail.com </a></li>
-  <li> ⚡ My Best Projects: Look up pinned projects below! </li>
+  <li> 👀 Take a look at my pinned projects below! </li>
   <li> 🌍 I speak Uzbek (native), Russian (C1), English (B1)</li>
 </ul>
 
@@ -27,4 +26,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=MuhammadjonBb&show_icons=true" />
 </picture>
 
-<!-- [![](https://visitcount.itsvg.in/api?id=MuhammadjonBb&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=MuhammadjonBb&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
