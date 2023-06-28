@@ -13,7 +13,7 @@
 ![axios](https://img.shields.io/badge/-axios-031530?style=for-the-badge&logo=axios) ![firebase](https://img.shields.io/badge/-firebase-031530?style=for-the-badge&logo=firebase) 
 ### 🌐 Follow me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-031530?style=for-the-badge&logo=telegram)](https://t.me/mboborakhimov) [![Instagram](https://img.shields.io/badge/-Instagram-031530?style=for-the-badge&logo=instagram)](https://www.instagram.com/elog1o_bb/) [![FaceBook](https://img.shields.io/badge/-FaceBook-031530?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100087666074920) [![Linkedin](https://img.shields.io/badge/-Linkedin-031530?style=for-the-badge&logo=linkedin&logoColor=0072b1)](https://www.linkedin.com/in/muhammadjon-boborakhimov/)
+[![Telegram](https://img.shields.io/badge/-Telegram-031530?style=for-the-badge&logo=telegram)](https://t.me/mboborakhimov) [![Instagram](https://img.shields.io/badge/-Instagram-031530?style=for-the-badge&logo=instagram)](https://www.instagram.com/m.boborakhimov/) [![FaceBook](https://img.shields.io/badge/-FaceBook-031530?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100087666074920) [![Linkedin](https://img.shields.io/badge/-Linkedin-031530?style=for-the-badge&logo=linkedin&logoColor=0072b1)](https://www.linkedin.com/in/muhammadjon-boborakhimov/)
 
 ### 📊 Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadjonBb&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
