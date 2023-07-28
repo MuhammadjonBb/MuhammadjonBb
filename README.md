@@ -26,4 +26,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=MuhammadjonBb&show_icons=true" />
 </picture>
 
-<!-- [![](https://visitcount.itsvg.in/api?id=MuhammadjonBb&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=MuhammadjonBb&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
