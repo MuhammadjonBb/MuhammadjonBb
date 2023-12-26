@@ -3,7 +3,7 @@
 <ul>
   <li> 🌱 I’m a Front-end developer </li>
   <li> 📫 How to reach me: <a href="mailto:muhammadzonboborahimov7@gmail.com"> muhammadzonboborahimov7@gmail.com </a></li>
-  <li> 🌍 I speak Uzbek (native), Russian (C2), English (B2)</li>
+  <li> 🌍 I speak Uzbek (native), Russian (C2), English (С1)</li>
   <li> 👀 Take a look at my pinned projects below! (Mainly deployed on gh-pages) </li>
 </ul>
 
